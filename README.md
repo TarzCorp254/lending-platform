@@ -136,4 +136,4 @@ let balance = get_borrower_balance(&borrower);
 This project is licensed under the MIT License.
 ```
 
-This `README.md` file provides a comprehensive overview of the module, its structures, functions, and usage instructions.
+This `README.md` file provides a comprehensive overview of the module, its structures, functions, and usage instructions.# lending-platform
