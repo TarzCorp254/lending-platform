@@ -1,4 +1,4 @@
-/*
+
 #[test_only]
 module lending::lending_tests {
     // uncomment this line to import the module
@@ -16,4 +16,4 @@ module lending::lending_tests {
         abort ENotImplemented
     }
 }
-*/
+
